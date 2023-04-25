@@ -1040,6 +1040,7 @@
  "RDSCloudHsmAuthorizationRole": "arn:aws:iam::aws:policy/service-role/RDSCloudHsmAuthorizationRole",
  "ROSAAmazonEBSCSIDriverOperatorPolicy": "arn:aws:iam::aws:policy/service-role/ROSAAmazonEBSCSIDriverOperatorPolicy",
  "ROSACloudNetworkConfigOperatorPolicy": "arn:aws:iam::aws:policy/service-role/ROSACloudNetworkConfigOperatorPolicy",
+ "ROSAControlPlaneOperatorPolicy": "arn:aws:iam::aws:policy/service-role/ROSAControlPlaneOperatorPolicy",
  "ROSAIngressOperatorPolicy": "arn:aws:iam::aws:policy/service-role/ROSAIngressOperatorPolicy",
  "ROSAManageSubscription": "arn:aws:iam::aws:policy/ROSAManageSubscription",
  "ROSAWorkerInstancePolicy": "arn:aws:iam::aws:policy/service-role/ROSAWorkerInstancePolicy",
